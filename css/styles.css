@@ -1,3 +1,14 @@
 .sidebar {
+  width: 30%;
   float: left;
+  background-color: lightgreen;
+  border: 5px;
+}
+
+.main {
+  background-color: lightgreen;
+  background-image: url('../img/young_tranplants.avif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 80%;
 }
