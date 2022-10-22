@@ -1,7 +1,32 @@
-html body {
+/*.bg {
   background: url('../img/young_tranplants.avif') no-repeat center center fixed;
   background-size: cover;
-  background-image: .6;
+  opacity: .5;
+}*/
+
+/*.bg {
+  position: fixed;
+  width: 100%;
+  background-size: cover;
+  height: auto;
+  top: 0;
+  left: 0;
+  opacity: .3;
+  z-index: -1;
+}*/
+
+body {
+  background-image: url('../img/young_tranplants.avif');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.bg {
+  background-color: rgba(255, 255, 255, .3);
+  height: 100%;
+
 }
 
 .sidebar {
