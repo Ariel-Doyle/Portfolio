@@ -17,8 +17,9 @@ _This is a basic HTML webpage as practice for writing code in line with lessons 
 
 ## Setup/Installation Requirements
 
-* _Access Github_
-* _Clone this repository to your desktop_
+* _[Github Pages](ariel-doyle.github.io/Portfolio) or_
+* _Access [Github](https://github.com/)_
+* _Clone this repository (https://github.com/Ariel-Doyle/Portfolio.git) to your desktop_
 * _Navigate to the top level of the directory_
 * _open **portfolio_page.html** in your browser_
 
