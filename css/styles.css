@@ -1,4 +1,5 @@
 body {
+  background-color: lightgreen;
   background-image: url('../img/young_tranplants.avif');
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -6,6 +7,15 @@ body {
   background-size: 100%;
   font-family: Helvetica;
 }
+
+/*.about-bg {
+  background-image: url('../img/hands_in_dirt.avif');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  font-family: Helvetica;
+}*/
 
 .bg {
   background-color: rgba(255, 255, 255, .4);
@@ -31,6 +41,10 @@ body {
 
 .sidebar a:hover {
   color: white;
+}
+
+.space {
+  padding-top: 45px;
 }
 
 .main {
