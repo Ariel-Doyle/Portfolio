@@ -20,6 +20,9 @@ body {
   background: rgba(144, 238, 144, .7);
   padding-top: 20px;
   text-align: center;
+  border: 10px;
+  border-left-style: solid;
+  border-color: darkolivegreen;
 }
 
 .sidebar a {
@@ -31,7 +34,7 @@ body {
 }
 
 .sidebar a:hover {
-  color: white;
+  color: wheat;
 }
 
 .space {
@@ -39,8 +42,16 @@ body {
 }
 
 .main {
-  margin-left: 180px;
-  padding: 30px;
+  margin-left: 170px;
+  padding: 20px;
+}
+
+.main a {
+  color: green;
+}
+
+.main a:hover {
+  color: wheat;
 }
 
 .main h1 {
@@ -61,4 +72,11 @@ body {
 .me {
   width: 25%;
   float: right;
+  margin: 12px;
+  padding: 6px;
+  background-color: black;
+}
+
+.name {
+  padding-left: 30px;
 }
