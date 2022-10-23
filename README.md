@@ -24,7 +24,7 @@ _This is a basic HTML webpage as practice for writing code in line with lessons 
 
 ## Known Bugs
 
-* _No known bugs_
+* _The element that creates the opacity in front of the background image does not cover the page if more elements are added and scrolling is required._
 
 ## License
 
