@@ -61,4 +61,8 @@ body {
 .me {
   width: 25%;
   float: right;
+  border: 2px;
+  margin: 12px;
+  padding: 5px;
+  background-color: black;
 }
