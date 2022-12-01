@@ -6,10 +6,10 @@
 
 ## Technologies Used
 
-* _HTML_
-* _VS Code Editor_
-* _CSS_
-* _Bootstrap_
+- _HTML_
+- _VS Code Editor_
+- _CSS_
+- _Bootstrap_
 
 ## Description
 
@@ -17,20 +17,18 @@ _This is a basic HTML webpage as practice for writing code in line with lessons 
 
 ## Setup/Installation Requirements
 
-* _[Github Pages](ariel-doyle.github.io/Portfolio) or_
-* _Access [Github](https://github.com/)_
-* _Clone this repository (https://github.com/Ariel-Doyle/Portfolio.git) to your desktop_
-* _Navigate to the top level of the directory_
-* _open **portfolio_page.html** in your browser_
+- _[Github Pages](ariel-doyle.github.io/Portfolio) or_
+- _Access [Github](https://github.com/)_
+- _Clone this repository (https://github.com/Ariel-Doyle/Portfolio.git) to your desktop_
+- _Navigate to the top level of the directory_
+- _open **portfolio_page.html** in your browser_
 
 ## Known Bugs
 
-* _The element that creates the opacity in front of the background image does not cover the page if more elements are added and scrolling is required._
+- _The element that creates the opacity in front of the background image does not cover the page if more elements are added and scrolling is required._
 
 ## License
 
 _[MIT](https://choosealicense.com/licenses/mit/)_
 
 Copyright (c) _2022_ _Ariel Doyle_
-
-

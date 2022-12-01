@@ -1,6 +1,6 @@
 body {
   background-color: lightgreen;
-  background-image: url('../img/young_tranplants.jpg');
+  background-image: url("../img/young_tranplants.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
@@ -9,7 +9,7 @@ body {
 }
 
 .bg {
-  background-color: rgba(255, 255, 255, .4);
+  background-color: rgba(255, 255, 255, 0.4);
   height: 100vh;
 }
 
@@ -17,7 +17,7 @@ body {
   height: 100%;
   width: 180px;
   position: fixed;
-  background: rgba(144, 238, 144, .7);
+  background: rgba(144, 238, 144, 0.7);
   padding-top: 20px;
   text-align: center;
   border: 10px;
@@ -66,7 +66,7 @@ body {
 .about {
   margin-left: 180px;
   padding: 30px;
-  padding-top: 200px; 
+  padding-top: 200px;
 }
 
 .me {
