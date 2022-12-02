@@ -81,19 +81,4 @@ body {
 .me {
   width: 25%;
   float: right;
-<<<<<<< HEAD
-  margin: 12px;
-  padding: 6px;
-  background-color: black;
 }
-
-.name {
-  padding-left: 30px;
-}
-=======
-  border: 2px;
-  margin: 12px;
-  padding: 5px;
-  background-color: black;
-}
->>>>>>> gh-pages
